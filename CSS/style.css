@@ -1,0 +1,30 @@
+/*estilos titulos*/
+
+h1{
+    color: orange;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+/*estilos parrafos*/
+/*clases*/
+
+.azul{
+    color: blue;
+    background-color: rgb(31, 231, 164);
+}
+
+
+body{
+    background-color: brown;
+    /* background-image: url(../IMG/47687826_615780902193250_5773161891002056704_n.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+@font-face {
+    font-family: "";
+    src: url();
+}
